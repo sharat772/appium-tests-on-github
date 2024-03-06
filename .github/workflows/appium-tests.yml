@@ -30,6 +30,8 @@ jobs:
           npm install -g appium
           appium -v
           appium >/dev/null &
+      - name: Print current directory
+        run: pwd
 
       - name : run tests
         uses: reactivecircus/android-emulator-runner@v2
