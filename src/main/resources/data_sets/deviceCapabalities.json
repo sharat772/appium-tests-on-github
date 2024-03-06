@@ -1,6 +1,6 @@
 {
   "platformName": "Android",
-  "appium:platformVersion": "14",
+  "appium:platformVersion": "13",
   "appium:app": "/Users/runner/work/appium-tests-on-github/appium-tests-on-github/src/main/resources/apk/SauceLabs.apk",
   "appium:automationName": "UiAutomator2",
   "appium:udid": "emulator-5554",
