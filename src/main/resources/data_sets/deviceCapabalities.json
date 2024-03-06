@@ -1,7 +1,7 @@
 {
   "platformName": "Android",
   "appium:platformVersion": "14",
-  "appium:app": "/Users/testvagrant/Files/appium-tests-on-github/src/main/resources/apk/SauceLabs.apk",
+  "appium:app": "/Users/runner/work/appium-tests-on-github/appium-tests-on-github/src/main/resources/apk/SauceLabs.apk",
   "appium:automationName": "UiAutomator2",
   "appium:udid": "emulator-5554",
   "appPackage" : "com.swaglabsmobileapp",
